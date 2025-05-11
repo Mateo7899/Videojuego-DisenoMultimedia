@@ -1,0 +1,4 @@
+repository "Videojuego-DisenoMultimediia/Videojuego-DisenoMultimediia@4674085473995@cloud"
+  path "/"
+    br "/main"
+    co "/main"
